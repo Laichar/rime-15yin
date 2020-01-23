@@ -1,0 +1,17 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 潮汕十五音
+#
+# 碼表製作：
+#
+#       奶茶貓 <hk.laichar@gmail.com>
+
+---
+name: 15yin
+version: "2020"
+sort: by_weight
+use_preset_vocabulary: true
+max_phrase_length: 7
+min_phrase_weight: 100
+...
