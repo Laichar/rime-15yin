@@ -15,3 +15,12 @@ use_preset_vocabulary: true
 max_phrase_length: 7
 min_phrase_weight: 100
 ...
+
+# 軍部
+# 上平聲
+腀 lung
+棆 lung
+# 上上聲
+棆 lung2
+稐 lung2
+碖 lung2
