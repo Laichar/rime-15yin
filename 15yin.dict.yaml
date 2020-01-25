@@ -17,6 +17,7 @@ min_phrase_weight: 100
 ...
 
 # 軍部
+# 柳
 # 上平聲
 腀 lung
 棆 lung
@@ -24,3 +25,9 @@ min_phrase_weight: 100
 棆 lung2
 稐 lung2
 碖 lung2
+忍 lung2
+# 上去聲
+腝 lung3
+媆 lung3
+嫩 lung3
+
